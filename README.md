@@ -12,6 +12,8 @@
 
     - [Video - Test login-logout, invalid login, new-register, forgot password](1.%20Exploratory%20testing/login-logout.invalid-login.new-register.forgot-password.MOV "Video - Test login-logout, invalid login, new-register, forgot password")
 
+    - If the videos cannot be opened, please click this [LINK](https://drive.google.com/drive/folders/1DMJT-w4ngHcnKWAs0gKYMsCQqJLIJjeG?usp=sharing "Video - Google Drive")
+
 2. Automated testing Goal - I did an API automated testing and provided test results as following:
 
     - [README](2.2%20Postman%20test%20script/Readme/README.md "README")
